@@ -1,0 +1,206 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500;600&family=Licorice&family=Montserrat:ital,wght@0,600;0,800;1,200;1,400;1,600&family=Pacifico&family=Vujahday+Script&display=swap');
+
+
+
+body{
+    background-color: #1e2225;
+}
+h1 {
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Licorice', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Vujahday Script', cursive;
+    color: azure;
+    margin-bottom: 3%;
+}
+.container p{
+    font-size: 50px;
+    margin-left: 5%;
+    margin-right: 5%;
+    
+
+}
+
+.one{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+p .a{
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+.two{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.three{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.four{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: azure;
+    
+}
+.five{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: azure;
+    
+}
+.six{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: azure;
+    
+}
+.seven{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: azure;
+    
+}
+.eight{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: azure;
+    
+}
+.nine{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: azure;
+    
+}
+.ten{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: azure;
+    
+}
+.eleven{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: azure;
+    
+}
+.twelve{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: azure;
+    
+}
+.thirteen{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: azure;
+    
+}
+.fourteen{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: azure;
+}
+.four p{
+    font-size: 50px;
+    margin-left: 12%;
+    margin-right: 12%;
+    
+}
+.one p{
+    font-size: 50px;
+    margin-left: 12%;
+    margin-right: 12%;
+    
+}
+.two p {
+    font-size: 50px;
+    margin-left: 12%;
+    margin-right: 12%;
+    
+}
+.three p{
+    font-size: 50px;
+    margin-left: 12%;
+    margin-right: 12%;
+    
+}
+.five p{
+    font-size: 50px;
+    margin-left: 12%;
+    margin-right: 12%;
+    
+}
+.six p{
+    font-size: 50px;
+    margin-left: 12%;
+    margin-right: 12%;
+    
+}
+.seven p{
+    font-size: 50px;
+    margin-left: 12%;
+    margin-right: 12%;
+    
+}
+.eight p{
+    font-size: 50px;
+    margin-left: 12%;
+    margin-right: 12%;
+    
+}
+.nine p{
+    font-size: 50px;
+    margin-left: 12%;
+    margin-right: 12%;
+    
+}
+.ten p{
+    font-size: 50px;
+    margin-left: 12%;
+    margin-right: 12%;
+    
+}
+.eleven p{
+    font-size: 50px;
+    margin-left: 12%;
+    margin-right: 12%;
+    
+}
+.twelve p{
+    font-size: 50px;
+    margin-left: 12%;
+    margin-right: 12%;
+    
+}
+.thirteen p{
+    font-size: 50px;
+    margin-left: 12%;
+    margin-right: 12%;
+    
+}
+.fourteen p{
+    font-size: 50px;
+    margin-left: 12%;
+    margin-right: 12%;
+}
